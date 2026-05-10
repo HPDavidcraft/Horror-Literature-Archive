@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Horror Literature Archive",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#1a1a1a", // Deep dark background
+          lightgray: "#2d2d2d", // Borders
+          gray: "#8c8c8c", // Graph links, heavier borders
+          darkgray: "#d4d4d4", // Body text
+          dark: "#ffffff", // Header text and icons
+          secondary: "#b30000", // Crimson red for links and current graph node
+          tertiary: "#ff3333", // Hover states and visited graph nodes
+          highlight: "rgba(179, 0, 0, 0.15)", // Internal link background, highlighted text
+          textHighlight: "#b3000088", // Markdown highlighted text background
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0a0a0a", // Pitch black background
+          lightgray: "#1f1f1f", // Borders
+          gray: "#666666", // Graph links, heavier borders
+          darkgray: "#e0e0e0", // Body text
+          dark: "#ffffff", // Header text and icons
+          secondary: "#8a0303", // Deep blood red for links
+          tertiary: "#cc0000", // Bright red hover states
+          highlight: "rgba(138, 3, 3, 0.15)", // Internal link background
+          textHighlight: "#8a030388", // Markdown highlighted text background
         },
       },
     },
