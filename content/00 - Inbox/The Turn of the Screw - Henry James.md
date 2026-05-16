@@ -18,16 +18,29 @@ Tags:
   - henry_james
   - the_turn_of_the_screw
 ---
+
 ![[The Turn of the Screw — Henry James.jpg|600]]
+
 # The Turn of the Screw
+**Original Title:** Empty
 **Author:** Henry James
-**Genres:** 
-  - henry_james
-  - the_turn_of_the_screw
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 163
+**Publisher:** Independently Published
+**Category:** Empty
+**ISBN10:** Empty
+**ISBN13:** 9798693005389
+**ASIN:** Empty
+**Publication Date:** 2020
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://openlibrary.org/works/OL276386W
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

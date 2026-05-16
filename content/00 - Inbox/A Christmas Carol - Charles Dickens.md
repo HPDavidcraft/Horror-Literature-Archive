@@ -18,16 +18,29 @@ Tags:
   - charles_dickens
   - a_christmas_carol
 ---
+
 ![[A Christmas Carol — Charles Dickens.jpg|600]]
+
 # A Christmas Carol
+**Original Title:** Empty
 **Author:** Charles Dickens
-**Genres:** 
-  - charles_dickens
-  - a_christmas_carol
+**Genres:** Empty
+**Translator:** Joe L. Wheeler
+**Total Pages:** 188
+**Publisher:** Bethany House Publishers
+**Category:** Fiction
+**ISBN10:** 1561797464
+**ISBN13:** 9781561797462
+**ASIN:** Empty
+**Publication Date:** 1999-09-23
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/A_Christmas_Carol.html?hl=&id=THMJ_Mo-CdAC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

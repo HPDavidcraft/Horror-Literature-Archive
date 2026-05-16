@@ -18,16 +18,29 @@ Tags:
   - anne_bronte
   - the_tenant_of_wildfell_hall
 ---
+
 ![[The Tenant of Wildfell Hall — Anne Bronte.jpg|600]]
+
 # The Tenant of Wildfell Hall
+**Original Title:** Empty
 **Author:** Anne Bronte
-**Genres:** 
-  - anne_bronte
-  - the_tenant_of_wildfell_hall
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 584
+**Publisher:** Penguin Classics
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** PSU:000049330984
+**ASIN:** Empty
+**Publication Date:** 1996-06
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Tenant_of_Wildfell_Hall.html?hl=&id=OKwwAQAAMAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

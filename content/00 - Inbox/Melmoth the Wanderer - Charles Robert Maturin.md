@@ -18,16 +18,29 @@ Tags:
   - charles_robert_maturin
   - melmoth_the_wanderer
 ---
+
 ![[Melmoth the Wanderer — Charles Robert Maturin.jpg|600]]
+
 # Melmoth the Wanderer
+**Original Title:** Empty
 **Author:** Charles Robert Maturin
-**Genres:** 
-  - charles_robert_maturin
-  - melmoth_the_wanderer
+**Genres:** Empty
+**Translator:** Victor Sage
+**Total Pages:** 828
+**Publisher:** Penguin UK
+**Category:** Fiction
+**ISBN10:** 014044761X
+**ISBN13:** 9780140447613
+**ASIN:** Empty
+**Publication Date:** 2000
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Melmoth_the_Wanderer.html?hl=&id=uB6UO6-XJoMC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

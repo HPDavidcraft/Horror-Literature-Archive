@@ -18,16 +18,29 @@ Tags:
   - arthur_machen
   - the_great_god_pan
 ---
+
 ![[The Great God Pan — Arthur Machen.jpg|600]]
+
 # The Great God Pan
+**Original Title:** Empty
 **Author:** Arthur Machen
-**Genres:** 
-  - arthur_machen
-  - the_great_god_pan
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 82
+**Publisher:** Creation Books
+**Category:** English fiction
+**ISBN10:** 1871592119
+**ISBN13:** 9781871592115
+**ASIN:** Empty
+**Publication Date:** 1996
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Great_God_Pan.html?hl=&id=X1iEuQAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

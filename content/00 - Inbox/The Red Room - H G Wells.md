@@ -18,16 +18,29 @@ Tags:
   - h_g_wells
   - the_red_room
 ---
+
 ![[The Red Room — H. .G Wells.jpg|600]]
+
 # The Red Room
+**Original Title:** Empty
 **Author:** H. .G Wells
-**Genres:** 
-  - h_g_wells
-  - the_red_room
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 28
+**Publisher:** CreateSpace
+**Category:** fiction, horror, short stories, dark, mysterious, tense, fast-paced
+**ISBN10:** 1507661452
+**ISBN13:** 9781507661451
+**ASIN:** Empty
+**Publication Date:** 2015-01-21
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Red_Room.html?hl=&id=87URrgEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

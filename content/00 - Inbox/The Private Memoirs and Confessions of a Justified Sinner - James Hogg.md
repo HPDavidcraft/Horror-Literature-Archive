@@ -18,16 +18,29 @@ Tags:
   - james_hogg
   - the_private_memoirs_and_confessions_of_a_justified_sinner
 ---
+
 ![[The Private Memoirs and Confessions of a Justified Sinner — James Hogg.jpg|600]]
+
 # The Private Memoirs and Confessions of a Justified Sinner
+**Original Title:** Empty
 **Author:** James Hogg
-**Genres:** 
-  - james_hogg
-  - the_private_memoirs_and_confessions_of_a_justified_sinner
+**Genres:** Empty
+**Translator:** John Carey
+**Total Pages:** 272
+**Publisher:** Oxford University Press, USA
+**Category:** Literary Criticism
+**ISBN10:** 0192835904
+**ISBN13:** 9780192835901
+**ASIN:** Empty
+**Publication Date:** 1999
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Private_Memoirs_and_Confessions_of_a.html?hl=&id=AHhr1niABeEC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

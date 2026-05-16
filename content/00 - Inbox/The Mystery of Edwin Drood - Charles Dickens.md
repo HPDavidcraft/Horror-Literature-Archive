@@ -18,16 +18,29 @@ Tags:
   - charles_dickens
   - the_mystery_of_edwin_drood
 ---
+
 ![[The Mystery of Edwin Drood — Charles Dickens.jpg|600]]
+
 # The Mystery of Edwin Drood
+**Original Title:** Empty
 **Author:** Charles Dickens
-**Genres:** 
-  - charles_dickens
-  - the_mystery_of_edwin_drood
+**Genres:** Empty
+**Translator:** David Paroissien
+**Total Pages:** 432
+**Publisher:** National Geographic Books
+**Category:** Fiction
+**ISBN10:** 0140439269
+**ISBN13:** 9780140439267
+**ASIN:** Empty
+**Publication Date:** 2002-05-28
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Mystery_of_Edwin_Drood.html?hl=&id=WYGMEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

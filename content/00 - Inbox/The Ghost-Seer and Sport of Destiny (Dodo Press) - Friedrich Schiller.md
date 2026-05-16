@@ -18,16 +18,29 @@ Tags:
   - friedrich_schiller
   - the_ghostseer_and_sport_of_destiny_dodo_press
 ---
+
 ![[The Ghost-Seer, and Sport of Destiny (Dodo Press) — Friedrich Schiller.jpg|600]]
+
 # The Ghost-Seer, and Sport of Destiny (Dodo Press)
+**Original Title:** Empty
 **Author:** Friedrich Schiller
-**Genres:** 
-  - friedrich_schiller
-  - the_ghostseer_and_sport_of_destiny_dodo_press
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 128
+**Publisher:** Dodo Press
+**Category:** Drama
+**ISBN10:** 1406538973
+**ISBN13:** 9781406538977
+**ASIN:** Empty
+**Publication Date:** 2007-07
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Ghost_Seer_and_Sport_of_Destiny_Dodo.html?hl=&id=l87FGgAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

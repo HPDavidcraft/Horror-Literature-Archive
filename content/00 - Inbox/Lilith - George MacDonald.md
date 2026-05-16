@@ -18,16 +18,29 @@ Tags:
   - george_macdonald
   - lilith
 ---
+
 ![[Lilith — George MacDonald.jpg|600]]
+
 # Lilith
+**Original Title:** Empty
 **Author:** George MacDonald
-**Genres:** 
-  - george_macdonald
-  - lilith
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 264
+**Publisher:** Borgo Press
+**Category:** Fiction
+**ISBN10:** 1587159260
+**ISBN13:** 9781587159268
+**ASIN:** Empty
+**Publication Date:** 2002-06-01
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Lilith.html?hl=&id=PgFbPwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

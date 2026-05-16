@@ -18,16 +18,29 @@ Tags:
   - ann_radcliffe
   - a_sicilian_romance
 ---
+
 ![[A Sicilian Romance — Ann Radcliffe.jpg|600]]
+
 # A Sicilian Romance
+**Original Title:** Empty
 **Author:** Ann Radcliffe
-**Genres:** 
-  - ann_radcliffe
-  - a_sicilian_romance
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 260
+**Publisher:** Oxford University Press, USA
+**Category:** Fiction
+**ISBN10:** 0192836668
+**ISBN13:** 9780192836663
+**ASIN:** Empty
+**Publication Date:** 1998
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/A_Sicilian_Romance.html?hl=&id=bnyPdok7IfYC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

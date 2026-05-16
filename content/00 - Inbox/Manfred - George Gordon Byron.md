@@ -18,16 +18,29 @@ Tags:
   - george_gordon_byron
   - manfred
 ---
+
 ![[Manfred — George Gordon Byron.jpg|600]]
+
 # Manfred
+**Original Title:** Empty
 **Author:** George Gordon Byron
-**Genres:** 
-  - george_gordon_byron
-  - manfred
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 82
+**Publisher:** Franklin Classics Trade Press
+**Category:** Empty
+**ISBN10:** 0343625555
+**ISBN13:** 9780343625559
+**ASIN:** Empty
+**Publication Date:** Oct 17, 2018
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://openlibrary.org/works/OL24262555W
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

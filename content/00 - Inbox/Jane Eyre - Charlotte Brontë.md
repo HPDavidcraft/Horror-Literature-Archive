@@ -18,16 +18,29 @@ Tags:
   - charlotte_brontë
   - jane_eyre
 ---
+
 ![[Jane Eyre — Charlotte Brontë.jpg|600]]
+
 # Jane Eyre
+**Original Title:** Empty
 **Author:** Charlotte Brontë
-**Genres:** 
-  - charlotte_brontë
-  - jane_eyre
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 580
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0142437204
+**ISBN13:** 9780142437209
+**ASIN:** Empty
+**Publication Date:** 2003
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Jane_Eyre.html?hl=&id=wRYXFHqwW98C
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

@@ -18,16 +18,29 @@ Tags:
   - george_william_macarthur_reynolds
   - the_necromancer
 ---
+
 ![[The Necromancer — George William MacArthur Reynolds.jpg|600]]
+
 # The Necromancer
+**Original Title:** Empty
 **Author:** George William MacArthur Reynolds
-**Genres:** 
-  - george_william_macarthur_reynolds
-  - the_necromancer
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 592
+**Publisher:** Valancourt Classics
+**Category:** Fiction
+**ISBN10:** 1934555320
+**ISBN13:** 9781934555323
+**ASIN:** Empty
+**Publication Date:** 2007
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Necromancer.html?hl=&id=uo-rJwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

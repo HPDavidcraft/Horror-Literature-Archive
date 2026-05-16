@@ -18,16 +18,29 @@ Tags:
   - oscar_wilde
   - the_picture_of_dorian_gray
 ---
+
 ![[The Picture of Dorian Gray — Oscar Wilde.jpg|600]]
+
 # The Picture of Dorian Gray
+**Original Title:** Empty
 **Author:** Oscar Wilde
-**Genres:** 
-  - oscar_wilde
-  - the_picture_of_dorian_gray
+**Genres:** Empty
+**Translator:** Robert Mighall
+**Total Pages:** 305
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0141439572
+**ISBN13:** 9780141439570
+**ASIN:** Empty
+**Publication Date:** 2003-02-04
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Picture_of_Dorian_Gray.html?hl=&id=L10wEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

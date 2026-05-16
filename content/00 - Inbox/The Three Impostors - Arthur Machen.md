@@ -18,16 +18,29 @@ Tags:
   - arthur_machen
   - the_three_impostors
 ---
+
 ![[The Three Impostors — Arthur Machen.jpg|600]]
+
 # The Three Impostors
+**Original Title:** Empty
 **Author:** Arthur Machen
-**Genres:** 
-  - arthur_machen
-  - the_three_impostors
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 190
+**Publisher:** Alan Rodgers Books
+**Category:** Fiction
+**ISBN10:** 1598184377
+**ISBN13:** 9781598184372
+**ASIN:** Empty
+**Publication Date:** 2005-08
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Three_Impostors.html?hl=&id=XiVfPAAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

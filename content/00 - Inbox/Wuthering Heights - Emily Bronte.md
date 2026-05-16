@@ -18,16 +18,29 @@ Tags:
   - emily_bronte
   - wuthering_heights
 ---
+
 ![[Wuthering Heights — Emily Bronte.jpg|600]]
+
 # Wuthering Heights
+**Original Title:** Empty
 **Author:** Emily Bronte
-**Genres:** 
-  - emily_bronte
-  - wuthering_heights
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 417
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0141439556
+**ISBN13:** 9780141439556
+**ASIN:** Empty
+**Publication Date:** 2002-12-31
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Wuthering_Heights.html?hl=&id=vQMyEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

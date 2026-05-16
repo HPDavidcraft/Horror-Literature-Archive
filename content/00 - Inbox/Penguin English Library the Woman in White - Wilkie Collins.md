@@ -18,16 +18,29 @@ Tags:
   - wilkie_collins
   - penguin_english_library_the_woman_in_white
 ---
+
 ![[Penguin English Library the Woman in White — Wilkie Collins.jpg|600]]
+
 # Penguin English Library the Woman in White
+**Original Title:** Empty
 **Author:** Wilkie Collins
-**Genres:** 
-  - wilkie_collins
-  - penguin_english_library_the_woman_in_white
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 702
+**Publisher:** National Geographic Books
+**Category:** Fiction
+**ISBN10:** 0141389435
+**ISBN13:** 9780141389431
+**ASIN:** Empty
+**Publication Date:** 2012-12-25
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/Penguin_English_Library_the_Woman_in_Whi.html?hl=&id=k42MEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

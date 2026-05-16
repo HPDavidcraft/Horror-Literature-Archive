@@ -18,16 +18,29 @@ Tags:
   - william_harrison_ainsworth
   - the_spectre_bride
 ---
+
 ![[The Spectre Bride — William Harrison Ainsworth.jpg|600]]
+
 # The Spectre Bride
+**Original Title:** Empty
 **Author:** William Harrison Ainsworth
-**Genres:** 
-  - william_harrison_ainsworth
-  - the_spectre_bride
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 15
+**Publisher:** Library of Alexandria
+**Category:** Fiction
+**ISBN10:** 1465603980
+**ISBN13:** 9781465603982
+**ASIN:** Empty
+**Publication Date:** 2020-09-28
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/The_Spectre_Bride.html?hl=&id=npWACgAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

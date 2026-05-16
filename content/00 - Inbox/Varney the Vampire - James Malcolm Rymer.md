@@ -18,16 +18,29 @@ Tags:
   - james_malcolm_rymer
   - varney_the_vampire
 ---
+
 ![[Varney, the Vampire — James Malcolm Rymer.jpg|600]]
+
 # Varney, the Vampire
+**Original Title:** Empty
 **Author:** James Malcolm Rymer
-**Genres:** 
-  - james_malcolm_rymer
-  - varney_the_vampire
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 812
+**Publisher:** Zittaw Press
+**Category:** Horror tales, English
+**ISBN10:** 0979587158
+**ISBN13:** 9780979587153
+**ASIN:** Empty
+**Publication Date:** 2007
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/Varney_the_Vampire.html?hl=&id=wwVyHwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

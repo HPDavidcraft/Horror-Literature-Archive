@@ -18,16 +18,29 @@ Tags:
   - richard_marsh
   - the_beetle
 ---
+
 ![[The Beetle — Richard Marsh.jpg|600]]
+
 # The Beetle
+**Original Title:** Empty
 **Author:** Richard Marsh
-**Genres:** 
-  - richard_marsh
-  - the_beetle
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 372
+**Publisher:** Broadview Press
+**Category:** Fiction
+**ISBN10:** 1551114437
+**ISBN13:** 9781551114439
+**ASIN:** Empty
+**Publication Date:** 2004-04-30
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Beetle.html?hl=&id=vj1Miv5UsSoC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

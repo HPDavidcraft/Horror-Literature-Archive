@@ -18,16 +18,29 @@ Tags:
   - florence_marryat_brenda_hammack
   - the_blood_of_the_vampire
 ---
+
 ![[The Blood of the Vampire — Florence Marryat, Brenda Hammack.jpg|600]]
+
 # The Blood of the Vampire
+**Original Title:** Empty
 **Author:** Florence Marryat, Brenda Hammack
-**Genres:** 
-  - florence_marryat_brenda_hammack
-  - the_blood_of_the_vampire
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 227
+**Publisher:** Valancourt Books
+**Category:** Fiction
+**ISBN10:** 1934555657
+**ISBN13:** 9781934555651
+**ASIN:** Empty
+**Publication Date:** 2009
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Blood_of_the_Vampire.html?hl=&id=lGNsPwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

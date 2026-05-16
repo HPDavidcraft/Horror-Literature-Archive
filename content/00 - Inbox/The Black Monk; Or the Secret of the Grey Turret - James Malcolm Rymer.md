@@ -18,16 +18,29 @@ Tags:
   - james_malcolm_rymer
   - the_black_monk_or_the_secret_of_the_grey_turret
 ---
+
 ![[The Black Monk; Or, the Secret of the Grey Turret — James Malcolm Rymer.jpg|600]]
+
 # The Black Monk; Or, the Secret of the Grey Turret
+**Original Title:** Empty
 **Author:** James Malcolm Rymer
-**Genres:** 
-  - james_malcolm_rymer
-  - the_black_monk_or_the_secret_of_the_grey_turret
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 636
+**Publisher:** Valancourt Books
+**Category:** fiction, horror, adventurous, mysterious, medium-paced
+**ISBN10:** 1934555991
+**ISBN13:** 9781934555996
+**ASIN:** Empty
+**Publication Date:** 2014-04
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Black_Monk_Or_the_Secret_of_the_Grey.html?hl=&id=wUn8oAEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

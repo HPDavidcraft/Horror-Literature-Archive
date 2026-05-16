@@ -18,16 +18,29 @@ Tags:
   - charlotte_smith
   - the_old_manor_house
 ---
+
 ![[The Old Manor House — Charlotte Smith.jpg|600]]
+
 # The Old Manor House
+**Original Title:** Empty
 **Author:** Charlotte Smith
-**Genres:** 
-  - charlotte_smith
-  - the_old_manor_house
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 593
+**Publisher:** Broadview Press
+**Category:** Fiction
+**ISBN10:** 1551112132
+**ISBN13:** 9781551112138
+**ASIN:** Empty
+**Publication Date:** 2002-09-19
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Old_Manor_House.html?hl=&id=_KdaDwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

@@ -18,16 +18,29 @@ Tags:
   - h_rider_haggard
   - king_solomons_mines
 ---
+
 ![[King Solomon's Mines — H. Rider Haggard.jpg|600]]
+
 # King Solomon's Mines
+**Original Title:** Empty
 **Author:** H. Rider Haggard
-**Genres:** 
-  - h_rider_haggard
-  - king_solomons_mines
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 301
+**Publisher:** Modern Library
+**Category:** Fiction
+**ISBN10:** 0812966295
+**ISBN13:** 9780812966299
+**ASIN:** Empty
+**Publication Date:** 2002-12-10
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/King_Solomon_s_Mines.html?hl=&id=z_9vDwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

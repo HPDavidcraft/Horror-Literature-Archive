@@ -18,16 +18,29 @@ Tags:
   - carl_grosse
   - horrid_mysteries_jane_austen_northanger_abbey_horrid_novels
 ---
-![[Horrid Mysteries (Jane Austen Northanger Abbey Horrid Novels) — Carl Grosse.jpg|600]]
+
+![[Horrid Mysteries Jane Austen Northanger Abbey Horrid Novels — Carl Grosse.jpg|600]]
+
 # Horrid Mysteries (Jane Austen Northanger Abbey Horrid Novels)
+**Original Title:** Empty
 **Author:** Carl Grosse
-**Genres:** 
-  - carl_grosse
-  - horrid_mysteries_jane_austen_northanger_abbey_horrid_novels
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 434
+**Publisher:** Valancourt Books
+**Category:** Fiction
+**ISBN10:** 1943910421
+**ISBN13:** 9781943910427
+**ASIN:** Empty
+**Publication Date:** Jun 07, 2016
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://openlibrary.org/works/OL19351043W
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

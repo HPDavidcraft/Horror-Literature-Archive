@@ -18,16 +18,29 @@ Tags:
   - henry_james
   - the_altar_of_the_dead_dodo_press
 ---
-![[The Altar of the Dead Dodo Press — Henry James.jpg|600]]
+
+![[The Altar of the Dead (Dodo Press) — Henry James.jpg|600]]
+
 # The Altar of the Dead (Dodo Press)
+**Original Title:** Empty
 **Author:** Henry James
-**Genres:** 
-  - henry_james
-  - the_altar_of_the_dead_dodo_press
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 48
+**Publisher:** Dodo Press
+**Category:** Fiction
+**ISBN10:** 1406518379
+**ISBN13:** 9781406518375
+**ASIN:** Empty
+**Publication Date:** 2007-03
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Altar_of_the_Dead_Dodo_Press.html?hl=&id=FzvBGAAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

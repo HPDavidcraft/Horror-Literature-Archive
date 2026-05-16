@@ -18,16 +18,29 @@ Tags:
   - robert_louis_stevenson
   - the_strange_case_of_dr_jekyll_and_mr_hyde
 ---
+
 ![[The Strange Case of Dr Jekyll and Mr Hyde — Robert Louis Stevenson.jpg|600]]
+
 # The Strange Case of Dr Jekyll and Mr Hyde
+**Original Title:** Empty
 **Author:** Robert Louis Stevenson
-**Genres:** 
-  - robert_louis_stevenson
-  - the_strange_case_of_dr_jekyll_and_mr_hyde
+**Genres:** Empty
+**Translator:** Robert Mighall
+**Total Pages:** 221
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0141439734
+**ISBN13:** 9780141439730
+**ASIN:** Empty
+**Publication Date:** 2003-09-30
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyd.html?hl=&id=inv8linBH0IC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

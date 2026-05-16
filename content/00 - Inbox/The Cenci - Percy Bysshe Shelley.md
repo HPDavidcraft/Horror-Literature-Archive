@@ -18,16 +18,29 @@ Tags:
   - percy_bysshe_shelley
   - the_cenci
 ---
+
 ![[The Cenci — Percy Bysshe Shelley.jpg|600]]
+
 # The Cenci
+**Original Title:** Empty
 **Author:** Percy Bysshe Shelley
-**Genres:** 
-  - percy_bysshe_shelley
-  - the_cenci
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 200
+**Publisher:** Book Jungle
+**Category:** Drama
+**ISBN10:** 159462531X
+**ISBN13:** 9781594625312
+**ASIN:** Empty
+**Publication Date:** 2007
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Cenci.html?hl=&id=q8GQPwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

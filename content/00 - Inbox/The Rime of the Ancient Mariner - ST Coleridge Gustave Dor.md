@@ -18,16 +18,29 @@ Tags:
   - st_coleridge_gustave_dor
   - the_rime_of_the_ancient_mariner
 ---
+
 ![[The Rime of the Ancient Mariner — S.T. Coleridge, Gustave Dor.jpg|600]]
+
 # The Rime of the Ancient Mariner
+**Original Title:** Empty
 **Author:** S.T. Coleridge, Gustave Dor
-**Genres:** 
-  - st_coleridge_gustave_dor
-  - the_rime_of_the_ancient_mariner
+**Genres:** Empty
+**Translator:** Gustave Doré
+**Total Pages:** 94
+**Publisher:** Courier Corporation
+**Category:** Art
+**ISBN10:** 0486223051
+**ISBN13:** 9780486223056
+**ASIN:** Empty
+**Publication Date:** 1970-01-01
+**Literary Period:** Post-War Anxiety & The Psychological Turn (1946–1975)
+**Link:** https://books.google.com/books/about/The_Rime_of_the_Ancient_Mariner.html?hl=&id=Pmz8AwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

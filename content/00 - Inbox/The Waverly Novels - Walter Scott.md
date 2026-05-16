@@ -18,16 +18,29 @@ Tags:
   - walter_scott
   - the_waverly_novels
 ---
+
 ![[The Waverly Novels — Walter Scott.jpg|600]]
+
 # The Waverly Novels
+**Original Title:** Empty
 **Author:** Walter Scott
-**Genres:** 
-  - walter_scott
-  - the_waverly_novels
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 472
+**Publisher:** Wildside Press LLC
+**Category:** Fiction
+**ISBN10:** 1434496813
+**ISBN13:** 9781434496812
+**ASIN:** Empty
+**Publication Date:** 2007-11
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Waverly_Novels.html?hl=&id=8hCFvgEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

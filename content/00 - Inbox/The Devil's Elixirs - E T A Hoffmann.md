@@ -18,16 +18,29 @@ Tags:
   - e_t_a_hoffmann
   - the_devils_elixirs
 ---
+
 ![[The Devil's Elixirs — E. T. A. Hoffmann.jpg|600]]
+
 # The Devil's Elixirs
+**Original Title:** Empty
 **Author:** E. T. A. Hoffmann
-**Genres:** 
-  - e_t_a_hoffmann
-  - the_devils_elixirs
+**Genres:** Empty
+**Translator:** Ian Sumter
+**Total Pages:** 336
+**Publisher:** The Devil's Elixirs
+**Category:** Blessing and cursing
+**ISBN10:** 1906210187
+**ISBN13:** 9781906210182
+**ASIN:** Empty
+**Publication Date:** 2007-06-01
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Devil_s_Elixirs.html?hl=&id=UIc9PgAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

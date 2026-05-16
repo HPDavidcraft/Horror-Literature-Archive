@@ -18,16 +18,29 @@ Tags:
   - mary_shelley
   - mathilda
 ---
+
 ![[Mathilda — Mary Shelley.jpg|600]]
+
 # Mathilda
+**Original Title:** Empty
 **Author:** Mary Shelley
-**Genres:** 
-  - mary_shelley
-  - mathilda
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 183
+**Publisher:** Liese. Outside The Box, Andreas
+**Category:** Fiction
+**ISBN10:** 3965379887
+**ISBN13:** 9783965379886
+**ASIN:** Empty
+**Publication Date:** 2020
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://openlibrary.org/works/OL450120W
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

@@ -18,16 +18,29 @@ Tags:
   - mary_shelley
   - frankenstein_the_1818_text
 ---
-![[Frankenstein: The 1818 Text — Mary Shelley.jpg|600]]
+
+![[Frankenstein The 1818 Text — Mary Shelley.jpg|600]]
+
 # Frankenstein: The 1818 Text
+**Original Title:** Empty
 **Author:** Mary Shelley
-**Genres:** 
-  - mary_shelley
-  - frankenstein_the_1818_text
+**Genres:** Empty
+**Translator:** Mary Wollstonecraft
+**Total Pages:** 289
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0143131842
+**ISBN13:** 9780143131847
+**ASIN:** Empty
+**Publication Date:** 2018-01-16
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/Frankenstein_The_1818_Text.html?hl=&id=WbNDDwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

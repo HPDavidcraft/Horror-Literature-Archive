@@ -18,16 +18,29 @@ Tags:
   - sir_walter_scott
   - wandering_willies_tale
 ---
+
 ![[Wandering Willie's Tale — Sir Walter Scott.jpg|600]]
+
 # Wandering Willie's Tale
+**Original Title:** Empty
 **Author:** Sir Walter Scott
-**Genres:** 
-  - sir_walter_scott
-  - wandering_willies_tale
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 0
+**Publisher:** Legare Street Press
+**Category:** Empty
+**ISBN10:** 1020467835
+**ISBN13:** 9781020467837
+**ASIN:** Empty
+**Publication Date:** 2023-07-18
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/Wandering_Willie_s_Tale.html?hl=&id=Li8W0AEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

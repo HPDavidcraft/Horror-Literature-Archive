@@ -18,16 +18,29 @@ Tags:
   - nathaniel_hawthorne
   - the_hollow_of_the_three_hills
 ---
+
 ![[The Hollow of the Three Hills — Nathaniel Hawthorne.jpg|600]]
+
 # The Hollow of the Three Hills
+**Original Title:** Empty
 **Author:** Nathaniel Hawthorne
-**Genres:** 
-  - nathaniel_hawthorne
-  - the_hollow_of_the_three_hills
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 24
+**Publisher:** CreateSpace
+**Category:** Empty
+**ISBN10:** 1501010247
+**ISBN13:** 9781501010248
+**ASIN:** Empty
+**Publication Date:** 2014-08-30
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Hollow_of_the_Three_Hills.html?hl=&id=6TbToQEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

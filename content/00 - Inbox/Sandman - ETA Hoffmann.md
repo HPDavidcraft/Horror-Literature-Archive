@@ -18,16 +18,29 @@ Tags:
   - eta_hoffmann
   - sandman
 ---
+
 ![[Sandman — E.T.A. Hoffmann.jpg|600]]
+
 # Sandman
+**Original Title:** Empty
 **Author:** E.T.A. Hoffmann
-**Genres:** 
-  - eta_hoffmann
-  - sandman
+**Genres:** Empty
+**Translator:** Peter Wortsman
+**Total Pages:** 53
+**Publisher:** Penguin Classics
+**Category:** fiction, classics, horror, short stories, dark, mysterious, tense, fast-paced
+**ISBN10:** 0241251508
+**ISBN13:** 9780241251508
+**ASIN:** Empty
+**Publication Date:** 2016
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/Sandman.html?hl=&id=7c4ijgEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

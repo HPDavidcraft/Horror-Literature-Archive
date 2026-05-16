@@ -18,16 +18,29 @@ Tags:
   - baron_edward_bulwer_lytton_lytton
   - the_haunted_and_the_haunters_or_the_house_and_the_brain
 ---
+
 ![[The Haunted and the Haunters; Or, The House and the Brain — Baron Edward Bulwer Lytton Lytton.jpg|600]]
+
 # The Haunted and the Haunters; Or, The House and the Brain
+**Original Title:** Empty
 **Author:** Baron Edward Bulwer Lytton Lytton
-**Genres:** 
-  - baron_edward_bulwer_lytton_lytton
-  - the_haunted_and_the_haunters_or_the_house_and_the_brain
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 46
+**Publisher:** Otbebookpublishing
+**Category:** Fiction
+**ISBN10:** 3962722602
+**ISBN13:** 9783962722609
+**ASIN:** Empty
+**Publication Date:** 2017-12-31
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/The_Haunted_and_the_Haunters_Or_The_Hous.html?hl=&id=0AxdEQAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

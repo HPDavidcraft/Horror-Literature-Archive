@@ -18,16 +18,29 @@ Tags:
   - thomas_holcroft
   - a_tale_of_mystery_a_melodrame
 ---
+
 ![[A Tale of Mystery, a Melo-Drame — Thomas Holcroft.jpg|600]]
+
 # A Tale of Mystery, a Melo-Drame
+**Original Title:** Empty
 **Author:** Thomas Holcroft
-**Genres:** 
-  - thomas_holcroft
-  - a_tale_of_mystery_a_melodrame
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 66
+**Publisher:** Forgotten Books
+**Category:** fiction, reflective, medium-paced
+**ISBN10:** 0260964093
+**ISBN13:** 9780260964090
+**ASIN:** Empty
+**Publication Date:** 2017-12-05
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/A_Tale_of_Mystery_a_Melo_Drame.html?hl=&id=b05IswEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

@@ -18,16 +18,29 @@ Tags:
   - mrs_parsons_eliza_eliza_parsons
   - the_castle_of_wolfenbach
 ---
-![[The Castle of Wolfenbach — Mrs. Parsons Eliza, Eliza Parsons.jpg|600]]
+
+![[The Castle of Wolfenbach — Mrs. Parsons (Eliza), Eliza Parsons.jpg|600]]
+
 # The Castle of Wolfenbach
+**Original Title:** Empty
 **Author:** Mrs. Parsons (Eliza), Eliza Parsons
-**Genres:** 
-  - mrs_parsons_eliza_eliza_parsons
-  - the_castle_of_wolfenbach
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 202
+**Publisher:** Gothic Classics
+**Category:** Fiction
+**ISBN10:** 0977784169
+**ISBN13:** 9780977784165
+**ASIN:** Empty
+**Publication Date:** 2006
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Castle_of_Wolfenbach.html?hl=&id=WxVtAQAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

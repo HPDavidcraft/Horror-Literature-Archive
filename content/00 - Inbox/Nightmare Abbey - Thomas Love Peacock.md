@@ -18,16 +18,29 @@ Tags:
   - thomas_love_peacock
   - nightmare_abbey
 ---
+
 ![[Nightmare Abbey — Thomas Love Peacock.jpg|600]]
+
 # Nightmare Abbey
+**Original Title:** Empty
 **Author:** Thomas Love Peacock
-**Genres:** 
-  - thomas_love_peacock
-  - nightmare_abbey
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 252
+**Publisher:** Broadview Press Incorporated
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** STANFORD:36105114461135
+**ASIN:** Empty
+**Publication Date:** 2007-04-09
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/Nightmare_Abbey.html?hl=&id=njorAQAAIAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

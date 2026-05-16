@@ -18,16 +18,29 @@ Tags:
   - j_sheridan_le_fanu
   - uncle_silas
 ---
+
 ![[Uncle Silas — J. Sheridan Le Fanu.jpg|600]]
+
 # Uncle Silas
+**Original Title:** Empty
 **Author:** J. Sheridan Le Fanu
-**Genres:** 
-  - j_sheridan_le_fanu
-  - uncle_silas
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 528
+**Publisher:** National Geographic Books
+**Category:** Fiction
+**ISBN10:** 0140437460
+**ISBN13:** 9780140437461
+**ASIN:** Empty
+**Publication Date:** 2001-06-01
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Uncle_Silas.html?hl=&id=8YCMEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

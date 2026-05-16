@@ -18,16 +18,29 @@ Tags:
   - ann_radcliffe
   - the_mysteries_of_udolpho
 ---
+
 ![[The Mysteries of Udolpho — Ann Radcliffe.jpg|600]]
+
 # The Mysteries of Udolpho
+**Original Title:** Empty
 **Author:** Ann Radcliffe
-**Genres:** 
-  - ann_radcliffe
-  - the_mysteries_of_udolpho
+**Genres:** Empty
+**Translator:** Jacqueline Howard
+**Total Pages:** 708
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0140437592
+**ISBN13:** 9780140437591
+**ASIN:** Empty
+**Publication Date:** 2001-10-01
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Mysteries_of_Udolpho.html?hl=&id=eAxU8k2DjE0C
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

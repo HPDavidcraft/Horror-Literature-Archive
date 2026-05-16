@@ -18,16 +18,29 @@ Tags:
   - edward_bulwer_lytton_baron_lytton
   - zanoni
 ---
+
 ![[Zanoni — Edward Bulwer Lytton Baron Lytton.jpg|600]]
+
 # Zanoni
+**Original Title:** Empty
 **Author:** Edward Bulwer Lytton Baron Lytton
-**Genres:** 
-  - edward_bulwer_lytton_baron_lytton
-  - zanoni
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 462
+**Publisher:** Anthroposophic Press
+**Category:** Fiction
+**ISBN10:** 0833400177
+**ISBN13:** 9780833400178
+**ASIN:** Empty
+**Publication Date:** 1971
+**Literary Period:** Post-War Anxiety & The Psychological Turn (1946–1975)
+**Link:** https://books.google.com/books/about/Zanoni.html?hl=&id=uhmNPwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

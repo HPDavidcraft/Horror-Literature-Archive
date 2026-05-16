@@ -18,16 +18,29 @@ Tags:
   - charlotte_brontë
   - villette
 ---
+
 ![[Villette — Charlotte Brontë.jpg|600]]
+
 # Villette
+**Original Title:** Empty
 **Author:** Charlotte Brontë
-**Genres:** 
-  - charlotte_brontë
-  - villette
+**Genres:** Empty
+**Translator:** Helen M. Cooper
+**Total Pages:** 828
+**Publisher:** Penguin UK
+**Category:** Fiction
+**ISBN10:** 0140434798
+**ISBN13:** 9780140434798
+**ASIN:** Empty
+**Publication Date:** 2004-06-24
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Villette.html?hl=&id=8FIWCH9kDBMC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

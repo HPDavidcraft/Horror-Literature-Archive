@@ -18,16 +18,29 @@ Tags:
   - samuel_taylor_coleridge
   - christabel_classic_reprint
 ---
-![[Christabel Classic Reprint — Samuel Taylor Coleridge.jpg|600]]
+
+![[Christabel (Classic Reprint) — Samuel Taylor Coleridge.jpg|600]]
+
 # Christabel (Classic Reprint)
+**Original Title:** Empty
 **Author:** Samuel Taylor Coleridge
-**Genres:** 
-  - samuel_taylor_coleridge
-  - christabel_classic_reprint
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 214
+**Publisher:** Forgotten Books
+**Category:** Poetry
+**ISBN10:** 1334365334
+**ISBN13:** 9781334365331
+**ASIN:** Empty
+**Publication Date:** 2016-11-22
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://books.google.com/books/about/Christabel_Classic_Reprint.html?hl=&id=9pP2MAAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

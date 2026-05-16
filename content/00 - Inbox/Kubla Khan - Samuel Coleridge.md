@@ -18,16 +18,29 @@ Tags:
   - samuel_coleridge
   - kubla_khan
 ---
+
 ![[Kubla Khan — Samuel Coleridge.jpg|600]]
+
 # Kubla Khan
+**Original Title:** Empty
 **Author:** Samuel Coleridge
-**Genres:** 
-  - samuel_coleridge
-  - kubla_khan
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 12
+**Publisher:** HarperCollins
+**Category:** Poetry
+**ISBN10:** 1443442216
+**ISBN13:** 9781443442213
+**ASIN:** Empty
+**Publication Date:** 2015-12-15
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/Kubla_Khan.html?hl=&id=QfgOCwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

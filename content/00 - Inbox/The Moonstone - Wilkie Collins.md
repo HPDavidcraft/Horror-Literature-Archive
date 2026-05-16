@@ -18,16 +18,29 @@ Tags:
   - wilkie_collins
   - the_moonstone
 ---
+
 ![[The Moonstone — Wilkie Collins.jpg|600]]
+
 # The Moonstone
+**Original Title:** Empty
 **Author:** Wilkie Collins
-**Genres:** 
-  - wilkie_collins
-  - the_moonstone
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 530
+**Publisher:** Modern Library
+**Category:** Fiction
+**ISBN10:** 0375757856
+**ISBN13:** 9780375757853
+**ASIN:** Empty
+**Publication Date:** 2001-09-11
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Moonstone.html?hl=&id=fctvDwAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

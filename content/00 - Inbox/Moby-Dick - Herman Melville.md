@@ -18,16 +18,29 @@ Tags:
   - herman_melville
   - mobydick
 ---
+
 ![[Moby-Dick — Herman Melville.jpg|600]]
+
 # Moby-Dick
+**Original Title:** Empty
 **Author:** Herman Melville
-**Genres:** 
-  - herman_melville
-  - mobydick
+**Genres:** Empty
+**Translator:** Andrew Delbanco
+**Total Pages:** 721
+**Publisher:** Penguin
+**Category:** Fiction
+**ISBN10:** 0142437247
+**ISBN13:** 9780142437247
+**ASIN:** Empty
+**Publication Date:** 2002-12-31
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Moby_Dick.html?hl=&id=Mo5PEAAAQBAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

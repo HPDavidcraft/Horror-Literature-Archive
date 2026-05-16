@@ -18,16 +18,29 @@ Tags:
   - nathaniel_hawthorne
   - ministers_black_veil
 ---
+
 ![[Minister's Black Veil — Nathaniel Hawthorne.jpg|600]]
+
 # Minister's Black Veil
+**Original Title:** Empty
 **Author:** Nathaniel Hawthorne
-**Genres:** 
-  - nathaniel_hawthorne
-  - ministers_black_veil
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 37
+**Publisher:** Tale Blazers
+**Category:** Fiction
+**ISBN10:** 0895987376
+**ISBN13:** 9780895987372
+**ASIN:** Empty
+**Publication Date:** 1980-04
+**Literary Period:** The Horror Boom & Mass-Market Peak (1976–1990)
+**Link:** https://books.google.com/books/about/Minister_s_Black_Veil.html?hl=&id=wkiHIgAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

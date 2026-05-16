@@ -18,16 +18,29 @@ Tags:
   - h_g_wells
   - the_invisible_man
 ---
+
 ![[The Invisible Man — H. G. Wells.jpg|600]]
+
 # The Invisible Man
+**Original Title:** Empty
 **Author:** H. G. Wells
-**Genres:** 
-  - h_g_wells
-  - the_invisible_man
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 214
+**Publisher:** Penguin Classics
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** UOM:39015060668574
+**ASIN:** Empty
+**Publication Date:** 2005-09-27
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_Invisible_Man.html?hl=&id=c5plAAAAMAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

@@ -18,16 +18,29 @@ Tags:
   - ann_radcliffe
   - the_castles_of_athlin_and_dunbayne
 ---
+
 ![[The Castles of Athlin and Dunbayne — Ann Radcliffe.jpg|600]]
+
 # The Castles of Athlin and Dunbayne
+**Original Title:** Empty
 **Author:** Ann Radcliffe
-**Genres:** 
-  - ann_radcliffe
-  - the_castles_of_athlin_and_dunbayne
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 172
+**Publisher:** Empty
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** STANFORD:36105016756855
+**ASIN:** Empty
+**Publication Date:** 1995
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Castles_of_Athlin_and_Dunbayne.html?hl=&id=G5ceAQAAIAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

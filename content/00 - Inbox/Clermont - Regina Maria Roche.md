@@ -18,16 +18,29 @@ Tags:
   - regina_maria_roche
   - clermont
 ---
+
 ![[Clermont — Regina Maria Roche.jpg|600]]
+
 # Clermont
+**Original Title:** Empty
 **Author:** Regina Maria Roche
-**Genres:** 
-  - regina_maria_roche
-  - clermont
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 428
+**Publisher:** Empty
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** CHI:75004665
+**ASIN:** Empty
+**Publication Date:** 2006
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/Clermont.html?hl=&id=N3ZKAQAAMAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

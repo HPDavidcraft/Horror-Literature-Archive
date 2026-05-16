@@ -18,16 +18,29 @@ Tags:
   - mary_elizabeth_braddon
   - lady_audleys_secret
 ---
+
 ![[Lady Audley's secret — Mary Elizabeth Braddon.jpg|600]]
+
 # Lady Audley's secret
+**Original Title:** Empty
 **Author:** Mary Elizabeth Braddon
-**Genres:** 
-  - mary_elizabeth_braddon
-  - lady_audleys_secret
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 476
+**Publisher:** CreateSpace Independent Publishing Platform
+**Category:** Empty
+**ISBN10:** 1546965947
+**ISBN13:** 9781546965947
+**ASIN:** Empty
+**Publication Date:** 2017
+**Literary Period:** The Indie Renaissance & Diverse Voices (2016–Present)
+**Link:** https://openlibrary.org/works/OL1490133W
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

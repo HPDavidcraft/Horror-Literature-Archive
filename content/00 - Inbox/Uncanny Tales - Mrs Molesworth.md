@@ -18,16 +18,29 @@ Tags:
   - mrs_molesworth
   - uncanny_tales
 ---
+
 ![[Uncanny Tales — Mrs. Molesworth.jpg|600]]
+
 # Uncanny Tales
+**Original Title:** Empty
 **Author:** Mrs. Molesworth
-**Genres:** 
-  - mrs_molesworth
-  - uncanny_tales
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 256
+**Publisher:** Empty
+**Category:** Fiction
+**ISBN10:** Empty
+**ISBN13:** STANFORD:36105036501729
+**ASIN:** Empty
+**Publication Date:** 1976
+**Literary Period:** The Horror Boom & Mass-Market Peak (1976–1990)
+**Link:** https://books.google.com/books/about/Uncanny_Tales.html?hl=&id=OXoeAQAAIAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

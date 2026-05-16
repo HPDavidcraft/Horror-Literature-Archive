@@ -18,16 +18,29 @@ Tags:
   - marquis_de_sade
   - the_120_days_of_sodom
 ---
+
 ![[The 120 Days of Sodom — Marquis De Sade.jpg|600]]
+
 # The 120 Days of Sodom
+**Original Title:** Empty
 **Author:** Marquis De Sade
-**Genres:** 
-  - marquis_de_sade
-  - the_120_days_of_sodom
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 376
+**Publisher:** Wilder Publications
+**Category:** Erotic literature, English
+**ISBN10:** 1604594187
+**ISBN13:** 9781604594188
+**ASIN:** Empty
+**Publication Date:** 2008
+**Literary Period:** Digital Transition & Small Press Revival (2005–2015)
+**Link:** https://books.google.com/books/about/The_120_Days_of_Sodom.html?hl=&id=VvJ_NwAACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

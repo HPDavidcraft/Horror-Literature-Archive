@@ -18,16 +18,29 @@ Tags:
   - william_beckford
   - vathek
 ---
+
 ![[Vathek — William Beckford.jpg|600]]
+
 # Vathek
+**Original Title:** Empty
 **Author:** William Beckford
-**Genres:** 
-  - william_beckford
-  - vathek
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 226
+**Publisher:** Oxford Paperbacks
+**Category:** Fiction
+**ISBN10:** 0192836560
+**ISBN13:** 9780192836564
+**ASIN:** Empty
+**Publication Date:** 1998-11-26
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/Vathek.html?hl=&id=y2g0CVBHewoC
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.

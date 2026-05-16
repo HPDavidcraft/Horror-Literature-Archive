@@ -18,16 +18,29 @@ Tags:
   - arthur_conan_doyle
   - the_parasite
 ---
+
 ![[The Parasite — Arthur Conan Doyle.jpg|600]]
+
 # The Parasite
+**Original Title:** Empty
 **Author:** Arthur Conan Doyle
-**Genres:** 
-  - arthur_conan_doyle
-  - the_parasite
+**Genres:** Empty
+**Translator:** Empty
+**Total Pages:** 112
+**Publisher:** Wildside Press
+**Category:** Fiction
+**ISBN10:** 0809594374
+**ISBN13:** 9780809594375
+**ASIN:** Empty
+**Publication Date:** 2004-03-01
+**Literary Period:** Contraction & The Literary Turn (1991–2004)
+**Link:** https://books.google.com/books/about/The_Parasite.html?hl=&id=C-ZyNAEACAAJ
 
 ---
 
 ## Synopsis
+
+
 
 ## Why It’s Here
 
@@ -42,3 +55,12 @@ Tags:
 ## Bibliography and Further Reading
 
 ## Personal Notes
+
+---
+
+## Cite This Entry 
+**MLA 9:** 
+> "Archive Entry: {{title}}." *The Horror Literature Archive*, compiled by HPDavidcraft, 2026, https://hpdavidcraft.github.io/Horror-Literature-Archive/ 
+
+**Chicago:** 
+> HPDavidcraft. "Archive Entry: {{title}}." *The Horror Literature Archive*. 2026. https://hpdavidcraft.github.io/Horror-Literature-Archive/.
