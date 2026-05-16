@@ -1,0 +1,44 @@
+---
+Title: "The Necromancer, Or, The Tale of the Black Forest"
+Original title: ""
+Author: "Karl Friedrich Kahlert"
+Translator: ""
+Prologue: ""
+Description: "First published by William Lane in 1794."
+Total Pages: "236"
+Publisher: Valancourt Classics
+Categories: Fiction
+isbn 10: ""
+isbn 13: "STANFORD:36105123323250"
+Asin: ""
+Published: 2007
+Cover: "[[Assets/Covers/The Necromancer, Or, The Tale of the Black Forest — Karl Friedrich Kahlert.jpg]]"
+Link: https://books.google.com/books/about/The_Necromancer_Or_The_Tale_of_the_Black.html?hl=&id=eq4gAQAAIAAJ
+Tags:
+  - karl_friedrich_kahlert
+  - the_necromancer_or_the_tale_of_the_black_forest
+---
+![[The Necromancer, Or, The Tale of the Black Forest — Karl Friedrich Kahlert.jpg|600]]
+# The Necromancer, Or, The Tale of the Black Forest
+**Author:** Karl Friedrich Kahlert
+**Genres:** 
+  - karl_friedrich_kahlert
+  - the_necromancer_or_the_tale_of_the_black_forest
+
+---
+
+## Synopsis
+
+## Why It’s Here
+
+## Historical & Literary Context
+
+## Genre & Subgenre Notes
+
+## Selected Quotations
+
+## Connections
+
+## Bibliography and Further Reading
+
+## Personal Notes
