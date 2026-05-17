@@ -20,7 +20,7 @@ Tags: {{tags}}
 # {{title}}
 **Original Title:** {{originalTitle}}
 **Author:** {{author}}
-**Genres:** {{Tags}}
+**Genres:** {{tags}}
 **Translator:** {{translator}}
 **Description:** {{description}}
 **Total Pages:** {{totalPage}}
